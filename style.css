@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(246, 242, 236);
+    margin:15px;
+}
+h1{
+    text-align: center;
+    color: rgb(40, 40, 98);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.fontcolor{
+
+    color: rgb(40, 40, 98);
+    font-style: italic;
+
+}
+.fontsize{
+
+    font-size: 20px;
+
+}
+.fi{
+   
+    display: flex;
+    justify-content: left;
+    
+}
